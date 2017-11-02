@@ -4,7 +4,7 @@ This repo is an C implementation of the following paper:
 
 > Yuqiu Qian, Conghui Tan, Nikos Mamoulis, David Cheung. *DSANLS: Accelerating Distributed Non-Negative Matrix
 Factorization via Sketching*. WSDM 2018.
-
+Please cite this paper if you use this code in your published research project.
 
 ## Prerequisite
 This implementation requires:
