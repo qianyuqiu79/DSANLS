@@ -52,7 +52,7 @@ The sparse matrix is stored in [zero-based CSR format](https://software.intel.co
 - three 32-bits integers: m, n, nnz, where nnz is the number of non-zero elements
 - (m+1) of 32-bits integers, indicating the row index
 - nnz of 32-bits integers: the column numbers of each non-zero entries
-- nnz of 32-bits integers: the values of the non-zero entries
+- nnz of float numbers: the values of the non-zero entries
 
 ### Precision of float number
 Precision of the floats (single-precision or double-precision) can be set by changing the macro "DOUBLE_PRECISION" in "common.h". Note that the precision of the float numbers in the input file must be consistent with this.
