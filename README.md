@@ -5,7 +5,11 @@ This repo is an C implementation of the following paper:
 > Yuqiu Qian, Conghui Tan, Nikos Mamoulis, David Cheung. *DSANLS: Accelerating Distributed Non-Negative Matrix
 Factorization via Sketching*. WSDM 2018.
 
-Please cite this paper if you use this code in your published research project.
+An C++ implementation of the following relevant paper is included in 'secureNMF' responsitory:
+
+> Yuqiu Qian, Conghui Tan, Danhao Ding, Hui Li, Nikos Mamoulis. *Fast and Secure Distributed Nonnegative Matrix Factorization*. TKDE 2020.
+
+Please cite these papers if you use these codes in your published research project.
 
 ## Prerequisite
 This implementation requires:
