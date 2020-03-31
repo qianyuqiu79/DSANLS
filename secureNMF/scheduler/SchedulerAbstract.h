@@ -4,7 +4,7 @@
 #include "../util/base.h"
 #include "../util/parameter.h"
 #include "../util/monitor.h"
-#include "../../matrix.h"
+#include "../util/matrix.h"
 
 #define UPDATE_TAG 1
 #define DUMP_TAG 2
