@@ -1,7 +1,3 @@
-//
-// Created by danhao on 1/11/19.
-//
-
 #include "../util/base.h"
 #include "../util/parameter.h"
 #include "../util/monitor.h"
