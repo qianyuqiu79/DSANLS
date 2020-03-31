@@ -2,7 +2,7 @@
 #define NMF_SERIALIZATION_H
 
 #include "base.h"
-#include "../../common.h"
+#include "common.h"
 #include <boost/archive/binary_oarchive.hpp>
 #include <boost/archive/binary_iarchive.hpp>
 
