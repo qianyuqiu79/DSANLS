@@ -1,7 +1,3 @@
-//
-// Created by danhao on 1/11/19.
-//
-
 #ifndef NMF_SCHEDULERABSTRACT_H
 #define NMF_SCHEDULERABSTRACT_H
 
